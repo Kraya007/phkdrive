@@ -1,4 +1,4 @@
 # HTTrack Website Copier Cookie File
 # This file format is compatible with Netscape cookies
-aladrive.com	TRUE	/	FALSE	1999999999	crumb	BZSR5mTF0s7TZjRjMjdkYWJkYjUxNDhkNWZmYzQxMGY1ZjA0NjZk
+index.html	TRUE	/	FALSE	1999999999	crumb	BZSR5mTF0s7TZjRjMjdkYWJkYjUxNDhkNWZmYzQxMGY1ZjA0NjZk
 
